@@ -32,7 +32,7 @@ Simple Interest = (Principal × Rate × Time) / 100
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/vyas-jahnvi/mcino-Introduction-to-Git-and-GitHub.git
+git clone https://github.com/jahnvi-vyas/github-final-project.git
 ```
 
 2. Navigate to the project directory:
@@ -72,3 +72,11 @@ Simple Interest = 1000
 ## Output
 
 - **Simple Interest = (P × R × T) / 100**
+
+## Author
+
+Jahnvi Vyas
+
+---
+
+© 2026 XYZ, Inc.
